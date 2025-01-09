@@ -1,5 +1,5 @@
 const fs = require('fs'); // require fs module
-const chalk = require('chalk');
+const chalk = require('chalk'); // require chalk module
 
 // create function to fetch existing notes from file
 const loadNotes = function() {

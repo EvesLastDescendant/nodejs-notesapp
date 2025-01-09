@@ -66,7 +66,7 @@ yargs.command({
     }
 })
 
-// initialize yargs to parse
+// initialize yargs to parse input
 yargs.parse()
 
 
