@@ -1,6 +1,6 @@
 # Terminal-Based Notes App
 
-A simple terminal-based notes application built using `yargs`, `chalk`, and the `fs` libraries. This app allows users to create, read, update, and delete notes from the command line.
+A simple terminal-based notes application built using `yargs`, `chalk`, and the `fs` libraries. This app allows users to create, read, update, and delete notes from the command line. The created notes are stored in a `notes.json` file.
 
 ## Features
 
